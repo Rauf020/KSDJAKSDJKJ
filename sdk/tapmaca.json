@@ -1,0 +1,309 @@
+{
+  "tapmacalar": [
+    {
+      "id": 1,
+      "question": "Bir ağacım var, on iki budağı,Hər budağın otuz yarpağı.",
+      "answer": "il"
+    },
+    {
+      "id": 2,
+      "question": "Yer altında sarı biz",
+      "answer": "Kok"
+    },
+    {
+      "id": 3,
+      "question": "Babam oturub al çuxada,Kim soyundursa gözü çıxar.",
+      "answer": "Sogan"
+    },
+    {
+      "id": 4,
+      "question": "Ağzı birdi, dili mindi,Gah belə deyir, gah elə.",
+      "answer": "Qelem"
+    },
+    {
+      "id": 5,
+      "question": "Ağca atı nalladım,Səmərqəndə yolladım.",
+      "answer": "Mektub"
+    },
+    {
+      "id": 6,
+      "question": "Suda bitər,Suda itər.",
+      "answer": "Buz"
+    },
+    {
+      "id": 7,
+      "question": "Bizim evdə iki gəlin var —İkisi də bir boyda.",
+      "answer": "Qapı"
+    },
+    {
+      "id": 8,
+      "question": "Baş üstə durar,Baxıb göz vurar.",
+      "answer": "Ulduz"
+    },
+    {
+      "id": 9,
+      "question": "Şəhəri var, evi yox.Meşəsi var, ağacı yox.Dənizi var, suyu yox.",
+      "answer": "Xerite"
+    },
+    {
+      "id": 10,
+      "question": "Çöldə deyil, evdədi,Nə yerdə, nə göydədi.",
+      "answer": "Pencere"
+    },
+    {
+      "id": 11,
+      "question": "Cavanlıqda olar qara,Qocalıqda oxşar qara.",
+      "answer": "Saqqal"
+    },
+    {
+      "id": 12,
+      "question": "Meşədi, çəməndi oylağım mənim,Özümnən yekədi papağım mənim.",
+      "answer": "Gobelek"
+    },
+    {
+      "id": 13,
+      "question": "Dörd qardaşın bir papağı var,Hamısı birdən qoyur.",
+      "answer": "Stol"
+    },
+    {
+      "id": 14,
+      "question": "Dişləri var, it deyil,Ayağı var, bit deyil,İlan kimi bərk çalar,Yerində bir dərd qalar.",
+      "answer": "Eqreb"
+    },
+    {
+      "id": 15,
+      "question": "Üçü bizə yağıdı,Üçü cənnət bağıdı,Üçü yığıb gətirir,Üçü vurub dağıdır.",
+      "answer": "Fesil"
+    },
+    {
+      "id": 16,
+      "question": "Bağda sürünər, gəzər,Az-az görünər, gəzər,Oxşuyar bir yumağaQorxuram əl vurmağa.",
+      "answer": "Kirpi"
+    },
+    {
+      "id": 17,
+      "question": "Balaca quyu,İçində suyu,Ağcadan ağdı,Sarıdan sarı.",
+      "answer": "Yumurta"
+    },
+    {
+      "id": 18,
+      "question": "Zülmət enəndə gülər,İşıq görsə mürgülər.",
+      "answer": "Yarasa"
+    },
+    {
+      "id": 19,
+      "question": "Bədəni var, başı yox,Qolları var, qılçası yox.Qarnını yırt, qanı yox.",
+      "answer": "Koynek"
+    },
+    {
+      "id": 20,
+      "question": "Əlim ilə əkərəm,Dilim ilə biçərəm.",
+      "answer": "Soz"
+    },
+    {
+      "id": 21,
+      "question": "Bayırda sağdı,Pambıqdan ağdı,Evə gələr,Suya dönər.",
+      "answer": "Qar"
+    },
+    {
+      "id": 22,
+      "question": "Nə gümüşdür, nə qızıl,Suya girər islanmaz,Yerə düşər paslanmaz.",
+      "answer": "Cive"
+    },
+    {
+      "id": 23,
+      "question": "Zirzəmilərdə yatan,Qara palçığa batan,Həkim dərmantək satan,Qara zəncirim nədi",
+      "answer": "Zeli"
+    },
+    {
+      "id": 24,
+      "question": "Babamın bir donu var,Qatlayıram, qat götürmür. ",
+      "answer": "Yer"
+    },
+    {
+      "id": 25,
+      "question": "Bağda bitər tağı yox,Ha sıxarsan yağı yox.",
+      "answer": "Biber"
+    },
+    {
+      "id": 26,
+      "question": "Bağlarda tappıldar,Meşədə şaqqıldar. ",
+      "answer": "Balta"
+    },
+    {
+      "id": 27,
+      "question": "Balaca baqqal,Nə versən udar.",
+      "answer": "Agiz"
+    },
+    {
+      "id": 28,
+      "question": "Balaca Cəfər parça təpər.",
+      "answer": "iyne"
+    },
+    {
+      "id": 29,
+      "question": "Balaca kişi çəpər hörər.",
+      "answer": "Biz"
+    },
+    {
+      "id": 30,
+      "question": "Altı daş, üstü daş – arasında çəmənim,Qazanda bişən duzsuz aşımdı mənim.",
+      "answer": "Semeni"
+    },
+    {
+      "id": 31,
+      "question": "Göydən gələ-gələ,Düşür gilə-gilə,Bunun adı nədir?Gərək hamı bilə.",
+      "answer": "Yağış"
+    },
+    {
+      "id": 32,
+      "question": "Yoxdur heç birYerə yolu.Qoynu maviSuyla dolu.",
+      "answer": "Göl"
+    },
+    {
+      "id": 33,
+      "question": " Ağquş suya töküldü.",
+      "answer": "Duyu"
+    },
+    {
+      "id": 34,
+      "question": "O hansı heyvandı anadan saqqallı doğular",
+      "answer": "Keçi"
+    },
+    {
+      "id": 35,
+      "question": "Bir quşum var, düz uçar ",
+      "answer": "Gulle"
+    },
+    {
+      "id": 36,
+      "question": "Ağ sinidə ağ təpə ",
+      "answer": "Plov"
+    },
+    {
+      "id": 37,
+      "question": "Bir sürü atlar,Cəməndə otlar.Vaxtı gələndə,Dərisi partlar.",
+      "answer": "Pambıq"
+    },
+    {
+      "id": 38,
+      "question": "Çoxlu tağ atarTorpağda yaşar.Qoyma yetişsin,Kal-kal dər apar",
+      "answer": "Xiyar"
+    },
+    {
+      "id": 39,
+      "question": "Altı bulağ icərlər,Üstü zəmi biçəllər",
+      "answer": "Qoyun"
+    },
+    {
+      "id": 40,
+      "question": "Əl ilə tutmaq olmaz,Göz ilə görmək olmaz.",
+      "answer": "Kulek"
+    },
+    {
+      "id": 41,
+      "question": "Ayağı yoxdur qaçır,Qanadı yoxdur uçur.",
+      "answer": "Bulud"
+    },
+    {
+      "id": 42,
+      "question": "Baş üstə durar,Baxıb göz vurar.",
+      "answer": "Ulduz"
+    },
+    {
+      "id": 43,
+      "question": "Bir qapağı, Min yarpağı",
+      "answer": "Kitab"
+    },
+    {
+      "id": 44,
+      "question": "TapTapmaca Yazaraq +3 xal qazan!",
+      "answer": "TapTapmaca"
+    },
+    {
+      "id": 45,
+      "question": "Oyun Yazaraq +3 xal qazan!",
+      "answer": "Oyun"
+    },
+    {
+      "id": 46,
+      "question": "@Rauffj Yazaraq +3 xal qazan!",
+      "answer": "@Rauffj"
+    },
+    {
+      "id": 47,
+      "question": "Salam Yazaraq +3 xal qazab!",
+      "answer": "Salam"
+    },
+    {
+      "id": 48,
+      "question": "1-10 -na qeder bir reqem yazin duz cixsa +3 xal qazanin",
+      "answer": "4"
+    },
+    {
+      "id": 49,
+      "question": "Bir qarpızım var cığal Üstünə dünya sığar.",
+      "answer": "Qlobus"
+    },
+    {
+      "id": 50,
+      "question": "Quş deyil qanadı var,Quşlardan yeyin uçar.",
+      "answer": "Teyyare"
+    },
+    {
+      "id": 51,
+      "question": "İki kürküm var,On qardaşa çatar.Bunu kim tapar",
+      "answer": "Elcek"
+    },
+    {
+      "id": 52,
+      "question": "Bәdәni var, başı yox.Qolları var, ayağı yox.Qarnını yırt, qanı yox.",
+      "answer": "Koynek"
+    },
+    {
+      "id": 53,
+      "question": "Toyda düyündә gәzәr,Sәsi alәmi bәzәr.Qabırğası qatbaqat,Gah yavaş, gah da bәrk dart.",
+      "answer": "Qarmon"
+    },
+    {
+      "id": 54,
+      "question": "Qanadı var uçmağa,İynәsi var sancmağa,Sevir işi, zәhmәti,Odur ki, var hörmәti.",
+      "answer": "Arı"
+    },
+    {
+      "id": 55,
+      "question": "Bir ağacım var,Bir gövdәsi,Beş budağı,Hәr budaqdan bir sәdәf",
+      "answer": "Qol"
+    },
+    {
+      "id": 56,
+      "question": "Yarpağı var, ağac deyil.Tikilir, paltar deyil.Danışır, adam deyil.",
+      "answer": "Kitab"
+    },
+    {
+      "id": 57,
+      "question": "O nədi ki, içində qışdır,Çölündə bahar.",
+      "answer": "Soyuducu"
+    },
+    {
+      "id": 58,
+      "question": "O nədi ki, yeməyi benzindi,Ayağı rezindi.",
+      "answer": "Avtomobil"
+    },
+    {
+      "id": 59,
+      "question": "Dolanar bütün ərzi,Aşar dağı, dənizi.Gəzib göydə gecələrGəlib yerdə dincələr.",
+      "answer": "Kosmonavt"
+    },
+    {
+      "id": 60,
+      "question": "10+2+5 = ? duz cavabi yazanin +3 xal qazanin",
+      "answer": "17"
+    },
+    {
+      "id": 61,
+      "question": "Uzanar, ha uzanar,Qollarınnan balalar.",
+      "answer": "Ağac"
+    }
+  ]
+}
